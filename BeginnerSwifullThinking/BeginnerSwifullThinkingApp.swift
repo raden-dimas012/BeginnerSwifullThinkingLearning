@@ -11,7 +11,10 @@ import SwiftUI
 struct BeginnerSwifullThinkingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            AppStorageBootcamp()
+           IntroView()
+            
         }
     }
 }
